@@ -18,7 +18,7 @@ div.ex {
 <body>
 <h1>Registration Form</h1>
 <div class="ex">
-	<form method="post" action="/hw-helloMVC/doRegister">
+	<form method="post" action="/hw1-helloMVC/doRegister">
 		<h5>Enter Information Here</h5>
 		<table>
 			<tbody>
